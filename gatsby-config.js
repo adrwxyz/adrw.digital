@@ -5,7 +5,7 @@ module.exports = {
             options: {
                 // siteUrl: "https://example.com", // Used for sitemap generation
                 manifestSettings: {
-                    favicon: './content/images/favicon.png', // Path is relative to the root
+                    favicon: './content/images/logos/h-300.png', // Path is relative to the root
                     siteName: 'ADRW Digital', // Used in manifest.json
                     shortName: 'ADRW Digital', // Used in manifest.json
                     startUrl: '/', // Used in manifest.json

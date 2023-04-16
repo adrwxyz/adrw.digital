@@ -1,22 +1,22 @@
 {
-    "intro": "Hello",
+    "intro": "",
     "heroPhoto": {
-        "src": "../../images/lego-dummy.png",
+        "src": "../../images/logos/h-300.png",
         "alt": "My Photo"
     },
     "image": {
-        "src": "../../images/waving-hand.png",
+        "src": "../../nope.png",
         "alt": "Waving Hand Emoji"
     },
-    "title": "I'm a Gatsby Theme",
+    "title": "Building and scaling is hard,",
     "subtitle": {
-        "prefix": "I make portfolios ",
-        "highlight": "awesome",
+        "prefix": "it's okay to ",
+        "highlight": "ask for help",
         "suffix": "."
     },
-    "description": "A modern portfolio with a minimalistic design.",
+    "description": "Find software consulting & contracting with the battle hardened experience, skill, and wisdom from years in big tech.",
     "socialProfiles": {
-        "from": ["LinkedIn", "Medium", "Github", "Mail"],
+        "from": ["Github", "Mail"],
         "showIcons": false
     }
 }

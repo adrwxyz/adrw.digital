@@ -1,14 +1,12 @@
 ---
 imageSrc: '../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg'
-imageAlt: 'About Gatsby Theme Portfolio Minimal'
+imageAlt: 'About ADRW Digital'
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+With skills and wisdom acquired by building and operating software with teams (at big tech companies you would know), ADRW Digital is able to provide credible and competend services to clients of any size.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+From startups to large tech firms, ADRW Digital is adept at adjusting approaches to fit the technical, organizational, and budget complexities that your team is faced with.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+We believe limitations can be a forcing function for ingenuity and beauty. Not every team has a blank cheque for cloud spend, we don't suggest solutions that are unreasonable.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+With experience from self-hosted bare metal to AWS Cloud (EC2, Aurora MySQL, DynamoDB, k8s EKS...), ADRW Digital can quickly get up to speed on your project and processes and start helping your team deliver value faster to your customers.
